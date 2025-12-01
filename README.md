@@ -32,9 +32,6 @@ For this project, the data is filtered to **only the United States**.
 
 Dataset location in this repository:
 
-📁 dataset/
-└── Covid_19.csv
-
 
 ---
 
@@ -129,9 +126,7 @@ Week-over-Week Growth Rate (%) = (Cases_7D_MA(t) / Cases_7D_MA(t - 7) - 1) * 100
 
 - `Covid_19_Analysis/`
   - `Covid_19.ipynb` — Full analysis notebook
-  - `dataset/`
-    - `Covid_19.csv` — Raw dataset
-
+  
 
 ---
 
